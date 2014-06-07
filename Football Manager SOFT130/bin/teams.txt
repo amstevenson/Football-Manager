@@ -1,0 +1,506 @@
+Doncaster
+League One
+Brian Flynn
+The Rovers
+Keepmoat Stadium
+1
+65
+36
+21
+doncaster.png
+20
+Sheffield United
+League One
+Danny Wilson
+The Blades
+Bramall Lane
+2
+65
+36
+21
+sheffieldunited.png
+21
+Brentford
+League One
+Uwe Rosler
+The bees
+Griffin Park
+3
+64
+37
+13
+brentford.png
+22
+Arsenal
+Premiership
+Liz Stuart
+The Gunners
+Emirates Stadium
+5
+47
+28
+21
+arsenal.png
+19
+Aston Villa
+Premiership
+Paul Lambert
+The Lions
+Villa Park
+17
+27
+29
+-26
+villa.png
+22
+Chelsea
+Premiership
+Rafael Benetiz
+the blues
+Stamford Bridge
+4
+52
+28
+26
+chelsea.png
+19
+Everton
+Premiership
+David Moyes
+The Toffees
+Goodison Park
+7
+45
+28
+9
+everton.png
+19
+Fulham
+Premiership
+Martin Jol
+The Cottagers
+Craven Cottage
+10
+33
+28
+-5
+fulham.png
+19
+Liverpool
+Premiership
+Brendan Rogers
+The Reds
+Anfield
+6
+45
+29
+20
+liverpool.png
+22
+Manchester United
+Premiership
+Sir Alex ferguson
+The Red Devils
+Old Trafford
+1
+74
+29
+38
+manu.png
+25
+Queens Park Rangers
+Premiership
+Harry Rednapp
+The Hoops
+Loftus Road Stadium
+20
+23
+29
+-21
+queensparkrangers.png
+17
+Swansea
+Premiership
+Michael Laudrup
+The Jacks
+Liberty Stadium
+9
+40
+29
+4
+swansea.png
+21
+Tottenham
+Premiership
+Andre Villa-Boas
+The Spurs
+White Hart Lane
+3
+54
+29
+15
+tottenham.png
+20
+Newcastle
+Premiership
+Alan Pardew
+The Magpies
+St. James' Park
+13
+33
+29
+-10
+newcastle.png
+21
+Manchester City
+Premiership
+Roberto Mancini
+City
+City of Manchester Stadium
+2
+59
+28
+27
+mancity.png
+23
+Norwich
+Premiership
+Chris Hughton
+The Canaries
+Carrow Road
+14
+33
+29
+-18
+norwich.png
+18
+Wigan Athletic
+Premiership
+Roberto Martinez
+The Latics
+DW Stadium
+18
+24
+28
+-22
+wigan.png
+21
+West Bromich
+Premiership
+Steve Clarke
+Albion
+The Hawthorns
+8
+43
+29
+2
+westbrom.png
+18
+Sunderland
+Premiership
+Martin O'Neill
+The Black Cats
+Stadium of Light
+15
+30
+29
+-9
+sunderland.png
+19
+Southampton
+Premiership
+Mauricio Pochettino
+The Saints
+St. Marys Stadium
+16
+28
+29
+-12
+southampton.png
+19
+Reading
+Premiership
+Brian McDermott
+The Royals
+Madejski Stadium
+19
+23
+30
+-22
+reading.png
+16
+Stoke
+Premiership
+Tony Pulis
+The Potters
+Brittania Stadium
+11
+33
+29
+-8
+stoke.png
+21
+Swindon
+League One
+Kevin MacDonald
+The Robins
+The County Ground
+4
+63
+37
+32
+swindon.png
+19
+Tranmere
+League One
+Ronnie Moore
+The Superwhites
+Prenton Park
+5
+63
+38
+16
+tranmere.png
+20
+Yeovil
+League One
+Gary Johnson
+The Glovers
+Huish Park
+6
+63
+37
+14
+yeovil.png
+21
+Bournemouth
+League One
+Eddie Howe
+The Cherries
+Dean Court
+7
+61
+38
+10
+bournemouth.png
+22
+Walsall
+League One
+Dean Smith
+The Saddlers
+Bescot Stadium
+8
+59
+38
+5
+walsall.png
+19
+Coventry
+League One
+Steven Pressley
+The Sky Blues
+Ricoh Arena
+9
+57
+38
+14
+coventry.png
+20
+Leyton Orient
+League One
+Russell Slade
+The O's
+Matchroom Stadium
+10
+57
+38
+1
+leytonorient.png
+21
+Notts County
+League One
+Chris Kiwomya
+The Magpies
+Meadow Lane
+11
+54
+38
+12
+nottscounty.png
+22
+Crawley
+League One
+Richie Barker
+The Reds
+Broadfield Stadium
+12
+52
+36
+-2
+crawley.png
+19
+MK Dons
+League One
+Karl Robinson
+The Dons
+Stadium mk
+13
+51
+36
+8
+mkdons.png
+23
+Crewe
+League One
+Steve Davis
+The Railwaymen
+Alexandra Stadium
+14
+50
+35
+-4
+crewe.png
+19
+Preston
+League One
+Simon Grayson
+The Lilywhites
+Deepdale
+15
+46
+36
+2
+preston.png
+23
+Stevenage
+League One
+Gary Smith
+The Boro
+Broadhall Way
+16
+46
+37
+-11
+stevenage.png
+19
+Carlisle
+League One
+Greg Abbott
+The Cumbrians
+Brunton Park
+17
+45
+37
+-17
+carlisle.png
+22
+Shrewsbury
+League One
+Graham Turner
+Salop
+New Meadow
+18
+43
+38
+-7
+shrewsbury.png
+22
+Colchester
+League One
+Joe Dunne
+The U's
+Colchester Community Stadium
+19
+40
+38
+-20
+colchester.png
+22
+Scunthorpe
+League One
+Brian Laws
+The Iron
+Glanford Park
+20
+38
+37
+-21
+scunthorpe.png
+23
+Oldham
+League One
+Tony Philliskirk
+The Latics
+Boundary Park
+21
+36
+35
+-14
+oldham.png
+21
+Hartlepool
+League One
+John Hughes
+The Pools
+Victoria Park
+22
+32
+37
+-24
+hartlepool.png
+22
+Portsmouth
+League One
+Guy Whittingham
+The Blue Army
+Fratton Park
+23
+30
+38
+-22
+portsmouth.png
+23
+West Ham
+Premiership
+Sam Allardyce
+The Hammers
+The Boleyn Ground
+12
+33
+28
+-9
+westham.png
+19
+Bury
+League One
+Kevin Blackwell
+The Shakers
+Gigg Lane Stadium
+24
+30
+36
+-23
+bury.png
+18
+Carlisle Juniors
+Scottish First Division
+Alex Sims
+The youngens
+Blackhole Mill
+4
+8
+5
+13
+carlisle.png
+22
+The Juniors
+Conference North
+Alex Sims
+Junior Simmys
+JuniorVille
+6
+5
+3
+2
+walsall.png
+12

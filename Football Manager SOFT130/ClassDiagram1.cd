@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Football_Manager_SOFT130.Fixture">
+    <Position X="11.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAAACAAAAAAAMAEAAQAAAAACAgAAoQIQAAAA=</HashCode>
+      <FileName>Fixture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmAddFixture" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmAddFixture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmAddLeague" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmAddLeague.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmAddTeam" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmAddTeam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmEditFixture" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmEditFixture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmEditLeague" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmEditLeague.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmEditTeams" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmEditTeams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.frmMainMenu" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAACCAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.League">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAIAAAAgAIAAAAAAwAAARAAAQEAIAAgIACAgA=</HashCode>
+      <FileName>League.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.Operations">
+    <Position X="3" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.Program" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.Team">
+    <Position X="5.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>UBAAAUEIjBAABGAEEIFABEAAAAAADZIIQAAAAAAAAAA=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football_Manager_SOFT130.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
